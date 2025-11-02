@@ -3,6 +3,10 @@
 ## Project Objective
 This project evaluates the investment attractiveness of Dr. Reddy's Laboratories Ltd (NSE: DRREDDY) by combining two complementary valuation approaches. The primary objective is to assess both the downside risk exposure through Value at Risk (VaR) analysis and the intrinsic value relative to peer pharmaceutical companies using comparable company valuation multiples. The combined analysis provides a comprehensive risk-return perspective for investment decision-making.
 
+![Relative Valuation Analysis](Relative_Valuation_DRREDDY.png)
+
+![VaR Monte Carlo Analysis](VaR_Dr.Reddy_monte_carlo.png)
+
 ## Project Scope
 The analysis covers the following key components:
 
